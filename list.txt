@@ -9,4 +9,5 @@ Angular
 JS
 Css3
 html5
+linux
 Ubuntu
